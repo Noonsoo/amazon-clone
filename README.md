@@ -1,7 +1,25 @@
-# Getting Started with Create React App
+Amazon App Clone
+Amazon official site clone
+Amazon clone using React, Context API, Firebase... 👇
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technologies used
+⏩ React
 
+⏩ React Context API
+
+⏩ Firebase
+
+Features
+👉 Complete Amazon official website clone 💻
+
+👉 Authenticated SignIn/SignUp Functionality with Firebase 🔑
+
+👉 100% Mobile responsive 📱 ️
+
+👉 State Mangement fully handled by React Context API
+
+Live Demo
+https://amazoon-clone-367aa.web.app/
 ## Available Scripts
 
 In the project directory, you can run:
